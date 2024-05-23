@@ -1,6 +1,6 @@
 import time
 import keyboard #pip install keyboard
-import pyautogui as pya
+import pyautogui as pya #pip install pyautogui
 
 counter = 0
 
